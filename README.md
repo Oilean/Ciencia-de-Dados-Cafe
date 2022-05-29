@@ -10,4 +10,6 @@
 
 # Professor
 - Prof. Dr. José Eduardo Storopoli
-Storopoli (2020, March 2). Ciência de Dados com Python: pandas, matplotlib, scikit-learn e tensorflow: Ciência de Dados. Disponível em: https://storopoli.io/ciencia-de-dados
+
+# Conteúdo
+Nosso projeto foi feito afim de mostrar os preços e volume diário do café em USD desde 2000 até os dias atuais.
